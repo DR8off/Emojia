@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live application here: **[Add Your Live Link Here]**
+Check out the live application here: **[[LiveDemo](https://dr8off.github.io/Emojia/)]**
 
 ## 🛠️ Tech Stack
 
